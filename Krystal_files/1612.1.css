@@ -53,7 +53,7 @@ a:hover, .span-link:hover {
 .content,
 .dest_hotels .right .hotel,
 body,
-.darkblue,
+.black,
 .htl .info .loc,
 .htl .rating span,
 .city-filters li strong,
@@ -154,7 +154,7 @@ p.review-average-rating span,
 .card-deck .secure-twt h4,
 .txt1,
 .futured-hotels .price {
-	color: #;
+	color: #; 
 	}
 
 .h-description .right-col,
@@ -788,7 +788,7 @@ a.sortd0 {
 	}
 
 	.booked__book-info .room-info-summary .r-i-summary-data.is-included {
-		color: #42be56;
+		color: #FD1313;
 
 	}
 
